@@ -10,6 +10,6 @@ citation: 'Hayes, G; Pinto, J; <b>Sparks, S</b>; Wang, C; Suri, C; Bulte, DP (20
 ---
 In this work, we review the role of VSMCs in the most common neurodegenerative disorders and identify physiological systems that may contribute to VSMC dysfunction. 
 
-[Download paper here](http://academicpages.github.io/files/VSMC_dysfunction_in_neurodegeneration_2022.pdf)
+[Download paper here](http://sierrasparks.github.io/files/VSMC_dysfunction_in_neurodegeneration_2022.pdf)
 
 Hayes, G; Pinto, J; <b>Sparks, S</b>; Wang, C; Suri, C; Bulte, DP (2022). &quot;Vascular smooth muscle cell dysfunction in neurodegeneration.&quot; <i>Frontiers in Neuroscience</i>.

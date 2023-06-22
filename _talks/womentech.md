@@ -3,7 +3,7 @@ title: "The Designer's Responsibility for Inclusive Design"
 collection: talks
 type: "Talk"
 permalink: /talks/womentech
-venue: "UC-Berkeley Institute for Testing Science"
+venue: "WomenTech Global Conference (Online)"
 date: 2021-06-11
 location: "Online"
 ---

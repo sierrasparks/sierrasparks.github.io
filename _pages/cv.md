@@ -29,7 +29,7 @@ Work experience
 
 * May 2020-Aug 2020: Electrical Engineering Co-op Student
   * Daxsonics Ultrasound Inc.
-  * Description: Designed a multiplexer PCB to automate acoustic measurements from individual ultrasound array elements. Created schematics for a high-frequency curvilinear ultrasound array to coincide with the client’s specifications. Tested and built array stackups and characterized performance. Reviewed and created technical documentation.
+  * Description: Designed a multiplexer PCB to automate acoustic measurements from individual ultrasound array elements. Created schematics for a high-frequency curvilinear ultrasound array to coincide with the client’s specifications. Tested and built array stackups and characterized performance. Reviewed and created technical documentation.
 
 * Sept 2019-Dec 2019: Process Control and Automation Co-op Student
   * Syncrude Canada Ltd.

@@ -13,7 +13,7 @@ Education
 ======
 * B.Eng. in Engineering (Electrical Engineering) with Co-operative Education and a Certificate in Biomedical Engineering, Dalhousie University, 2021
   * GPA: 4.26/4.3
-  * Capstone (senior year) project: "Minimally Invasive Ultrasound Probe for Spinal Surgery" (Grade: A+)       
+  * Capstone (senior year) project: [Minimally Invasive Ultrasound Probe for Spinal Surgery](https://github.com/sierrasparks/Senior-Year-Capstone-Group-11/tree/master) (Grade: A+)       
 * DPhil in Engineering Science, University of Oxford, 2025 (expected)
   * Thesis title: "Using the Pupillary Light Response to Measure Cerebrovascular Reactivity as a Diagnostic Tool for Dementia"
 
@@ -25,7 +25,7 @@ Work experience
     
 * Jan 2021-May 2021: Electrical Engineer-in-Training (EIT)
   * Daxsonics Ultrasound Inc.
-  * Description: Created electrical schematics and printed circuit board designs for high-frequency ultrasound transducers. Worked on test procedures and test materials for blood haemolysis experiments. Characterized acoustic impedance of various ultrasound materials. Tested and built array stack-ups and characterized performance. Managed a project to characterize ultrasound gel for a new client, with positive feedback.
+  * Description: Created electrical schematics and printed circuit board designs for high-frequency ultrasound transducers. Worked on test procedures and test materials for blood haemolysis experiments. Characterized acoustic impedance of various ultrasound materials. Tested and built array stackups and characterized performance. Managed a project to characterize ultrasound gel for a new client, with positive feedback.
 
 * May 2020-Aug 2020: Electrical Engineering Co-op Student
   * Daxsonics Ultrasound Inc.

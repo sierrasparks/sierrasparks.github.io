@@ -79,7 +79,7 @@ Service and leadership
 ======
 * President, Keble College Boat Club (2023-Present)
 * Member, International Society for Magnetic Resonance in Medicine Inclusion Working Group (2023-Present)
-* Equality and Diversity Officer, Keble College Middle Common Room (2022-2023)
+* Equality and Diversity Officer, Keble College Middle Common Room (2022-Present)
 * Women's Captain, Keble College Boat Club (2022-2023)
 * Founding Member, Oxford Biomedical Imaging Society (2021-Present)
 * Student Representative, Oxford Engineering EDI Committee (2021-2022)

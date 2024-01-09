@@ -10,6 +10,6 @@ citation: '<b>Sparks, S</b>; Pinto, J; Hayes, G; Spitschan, M; Bulte, DP (2023).
 ---
 In this work, we review the prevalent risk factors for Alzheimers disease and their impact, if any, on the pupillary light response. 
 
-[Download paper here](http://sierrasparks.github.io/files/VSMC_dysfunction_in_neurodegeneration_2022.pdf)
+[Download paper here](http://sierrasparks.github.io/files/Sparks-2023.pdf)
 
 Hayes, G; Pinto, J; <b>Sparks, S</b>; Wang, C; Suri, C; Bulte, DP (2022). &quot;Vascular smooth muscle cell dysfunction in neurodegeneration.&quot; <i>Frontiers in Neuroscience</i>.

@@ -2,7 +2,7 @@
 title: "The impact of Alzheimer's disease risk factors on the pupillary light response"
 collection: publications
 permalink: /publication/2023-08-15-the-impact-of-alzheimers-disease-risk-factors-on-the-pupillary-light-response
-excerpt: 'In this work, we review the prevalent risk factors in Alzheimer's disease and their impact, if any, on the pupillary light response.'
+excerpt: 'In this work, we review the role of vascular smooth muscle cells in the most common neurodegenerative disorders and identify physiological systems that may contribute to VSMC dysfunction.'
 date: 2023-08-16
 venue: 'Frontiers in Neuroscience'
 paperurl: 'http://sierrasparks.github.io/files/VSMC_dysfunction_in_neurodegeneration_2022.pdf'

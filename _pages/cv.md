@@ -21,7 +21,7 @@ Work experience
 ======
 * Nov 2021-Present: Tutor and Laboratory Demonstrator
   * University of Oxford
-  * Description: Tutor and laboratory demonstrator for third year engineering control systems (outlined in "Teaching" section).
+  * Description: Tutor and laboratory demonstrator for third year engineering control systems (2021-2023), and third year engineering biomechanics (2023-present, both outlined in "Teaching" section).
     
 * Jan 2021-May 2021: Electrical Engineer-in-Training (EIT)
   * Daxsonics Ultrasound Inc.

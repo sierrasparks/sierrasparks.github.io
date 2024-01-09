@@ -1,4 +1,5 @@
---
+---
+
 title: "The impact of Alzheimers disease risk factors on the pupillary light response"
 collection: publications
 permalink: /publication/2023-08-15-the-impact-of-alzheimers-disease-risk-factors-on-the-pupillary-light-response
